@@ -147,7 +147,7 @@
 
       
                
-   ## Training & Evaluating ANN
+   ## Training & Evaluating RNN
 
         > For predicting the pollution rate for the next hour:
 
